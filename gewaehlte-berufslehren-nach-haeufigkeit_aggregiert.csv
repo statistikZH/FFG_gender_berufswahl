@@ -1,347 +1,347 @@
-"","Beruf","Total_Beruf","Geschlecht","Anzahl","Total_Geschlecht","Anteil"
-"1","Abdichter/in",1,"Frauen",0,3698,0
-"2","Abdichter/in",1,"MÃ¤nner",1,4158,0
-"3","Abdichtungspraktiker/in",2,"Frauen",0,3698,0
-"4","Abdichtungspraktiker/in",2,"MÃ¤nner",2,4158,0
-"5","Agrarpraktiker/in",1,"Frauen",0,3698,0
-"6","Agrarpraktiker/in",1,"MÃ¤nner",1,4158,0
-"7","Anlagen- und Apparatebauer/in",15,"Frauen",1,3698,0
-"8","Anlagen- und Apparatebauer/in",15,"MÃ¤nner",14,4158,0.3
-"9","AnlagenfÃ¼hrer/in",5,"Frauen",1,3698,0
-"10","AnlagenfÃ¼hrer/in",5,"MÃ¤nner",4,4158,0.1
-"11","Anlehre: INSOS Pra",59,"Frauen",21,3698,0.6
-"12","Anlehre: INSOS Pra",59,"MÃ¤nner",38,4158,0.9
-"13","Apparate-GlasblÃ¤ser/in",1,"Frauen",1,3698,0
-"14","Apparate-GlasblÃ¤ser/in",1,"MÃ¤nner",0,4158,0
-"15","Architekturmodellbauer/in",2,"Frauen",1,3698,0
-"16","Architekturmodellbauer/in",2,"MÃ¤nner",1,4158,0
-"17","Assistent/in Gesundheit und Soziales",78,"Frauen",65,3698,1.8
-"18","Assistent/in Gesundheit und Soziales",78,"MÃ¤nner",13,4158,0.3
-"19","Augenoptiker/in",42,"Frauen",33,3698,0.9
-"20","Augenoptiker/in",42,"MÃ¤nner",9,4158,0.2
-"21","Automatiker/in",95,"Frauen",7,3698,0.2
-"22","Automatiker/in",95,"MÃ¤nner",88,4158,2.1
-"23","Automatikmonteur/in",17,"Frauen",2,3698,0.1
-"24","Automatikmonteur/in",17,"MÃ¤nner",15,4158,0.4
-"25","Automobil-Assistent/in",8,"Frauen",0,3698,0
-"26","Automobil-Assistent/in",8,"MÃ¤nner",8,4158,0.2
-"27","Automobil-Fachmann/-frau",112,"Frauen",3,3698,0.1
-"28","Automobil-Fachmann/-frau",112,"MÃ¤nner",109,4158,2.6
-"29","Automobil-Mechatroniker/in",78,"Frauen",4,3698,0.1
-"30","Automobil-Mechatroniker/in",78,"MÃ¤nner",74,4158,1.8
-"31","BÃ¤cker/in-Konditor/in-Confiseur/in",33,"Frauen",27,3698,0.7
-"32","BÃ¤cker/in-Konditor/in-Confiseur/in",33,"MÃ¤nner",6,4158,0.1
-"33","Baumaschinenmechaniker/in",10,"Frauen",0,3698,0
-"34","Baumaschinenmechaniker/in",10,"MÃ¤nner",10,4158,0.2
-"35","Baupraktiker/in",7,"Frauen",0,3698,0
-"36","Baupraktiker/in",7,"MÃ¤nner",7,4158,0.2
-"37","Bauwerktrenner/in",1,"Frauen",0,3698,0
-"38","Bauwerktrenner/in",1,"MÃ¤nner",1,4158,0
-"39","Bekleidungsgestalter/in",10,"Frauen",10,3698,0.3
-"40","Bekleidungsgestalter/in",10,"MÃ¤nner",0,4158,0
-"41","Blasinstrumentenbauer",1,"Frauen",0,3698,0
-"42","Blasinstrumentenbauer",1,"MÃ¤nner",1,4158,0
-"43","Boden-Parkettleger/in",8,"Frauen",0,3698,0
-"44","Boden-Parkettleger/in",8,"MÃ¤nner",8,4158,0.2
-"45","Bootbauer/in",2,"Frauen",0,3698,0
-"46","Bootbauer/in",2,"MÃ¤nner",2,4158,0
-"47","Bootfachwart/in",4,"Frauen",0,3698,0
-"48","Bootfachwart/in",4,"MÃ¤nner",4,4158,0.1
-"49","BuchhÃ¤ndler/in",5,"Frauen",5,3698,0.1
-"50","BuchhÃ¤ndler/in",5,"MÃ¤nner",0,4158,0
-"51","BÃ¼hnentÃ¤nzer/in",5,"Frauen",4,3698,0.1
-"52","BÃ¼hnentÃ¤nzer/in",5,"MÃ¤nner",1,4158,0
-"53","BÃ¼roassistent/in",13,"Frauen",8,3698,0.2
-"54","BÃ¼roassistent/in",13,"MÃ¤nner",5,4158,0.1
-"55","Carrosseriespengler/in",22,"Frauen",1,3698,0
-"56","Carrosseriespengler/in",22,"MÃ¤nner",21,4158,0.5
-"57","Carrossier/in Lackiererei",28,"Frauen",2,3698,0.1
-"58","Carrossier/in Lackiererei",28,"MÃ¤nner",26,4158,0.6
-"59","Chemie- und Pharmatechnologe/-login",7,"Frauen",6,3698,0.2
-"60","Chemie- und Pharmatechnologe/-login",7,"MÃ¤nner",1,4158,0
-"61","Coiffeur/-euse",100,"Frauen",82,3698,2.2
-"62","Coiffeur/-euse",100,"MÃ¤nner",18,4158,0.4
-"63","Dachdecker/in",3,"Frauen",0,3698,0
-"64","Dachdecker/in",3,"MÃ¤nner",3,4158,0.1
-"65","Dachdeckerpraktiker/in",2,"Frauen",0,3698,0
-"66","Dachdeckerpraktiker/in",2,"MÃ¤nner",2,4158,0
-"67","DekorationsnÃ¤her/in",1,"Frauen",1,3698,0
-"68","DekorationsnÃ¤her/in",1,"MÃ¤nner",0,4158,0
-"69","Dentalassistent/in",178,"Frauen",178,3698,4.8
-"70","Dentalassistent/in",178,"MÃ¤nner",0,4158,0
-"71","Detailhandelsassistent/in",100,"Frauen",47,3698,1.3
-"72","Detailhandelsassistent/in",100,"MÃ¤nner",53,4158,1.3
-"73","Detailhandelsfachmann/-frau",430,"Frauen",208,3698,5.6
-"74","Detailhandelsfachmann/-frau",430,"MÃ¤nner",222,4158,5.3
-"75","Drogist/in",38,"Frauen",34,3698,0.9
-"76","Drogist/in",38,"MÃ¤nner",4,4158,0.1
-"77","Drucktechnologe/-gin",1,"Frauen",1,3698,0
-"78","Drucktechnologe/-gin",1,"MÃ¤nner",0,4158,0
-"79","Elektroinstallateur/in",292,"Frauen",6,3698,0.2
-"80","Elektroinstallateur/in",292,"MÃ¤nner",286,4158,6.9
-"81","Elektroniker/in",68,"Frauen",7,3698,0.2
-"82","Elektroniker/in",68,"MÃ¤nner",61,4158,1.5
-"83","Elektroplaner/in",35,"Frauen",6,3698,0.2
-"84","Elektroplaner/in",35,"MÃ¤nner",29,4158,0.7
-"85","EntwÃ¤sserungspraktiker/in",1,"Frauen",0,3698,0
-"86","EntwÃ¤sserungspraktiker/in",1,"MÃ¤nner",1,4158,0
-"87","Fachmann/-frau Betreuung",511,"Frauen",439,3698,11.9
-"88","Fachmann/-frau Betreuung",511,"MÃ¤nner",72,4158,1.7
-"89","Fachmann/-frau Betriebsunterhalt",102,"Frauen",5,3698,0.1
-"90","Fachmann/-frau Betriebsunterhalt",102,"MÃ¤nner",97,4158,2.3
-"91","Fachmann/-frau Bewegungs-u.Ges.heitsfÃ¶rderung",17,"Frauen",7,3698,0.2
-"92","Fachmann/-frau Bewegungs-u.Ges.heitsfÃ¶rderung",17,"MÃ¤nner",10,4158,0.2
-"93","Fachmann/-frau Gesundheit",541,"Frauen",475,3698,12.8
-"94","Fachmann/-frau Gesundheit",541,"MÃ¤nner",66,4158,1.6
-"95","Fachmann/-frau Information u. Dokumentation",7,"Frauen",4,3698,0.1
-"96","Fachmann/-frau Information u. Dokumentation",7,"MÃ¤nner",3,4158,0.1
-"97","Fachmann/-frau Kundendialog",25,"Frauen",17,3698,0.5
-"98","Fachmann/-frau Kundendialog",25,"MÃ¤nner",8,4158,0.2
-"99","Fachmann/-frau Ã¶ffentlicher Verkehr",18,"Frauen",3,3698,0.1
-"100","Fachmann/-frau Ã¶ffentlicher Verkehr",18,"MÃ¤nner",15,4158,0.4
-"101","Fachmann/Fachfrau Hauswirtschaft",14,"Frauen",14,3698,0.4
-"102","Fachmann/Fachfrau Hauswirtschaft",14,"MÃ¤nner",0,4158,0
-"103","Fahrradmechaniker/in",16,"Frauen",1,3698,0
-"104","Fahrradmechaniker/in",16,"MÃ¤nner",15,4158,0.4
-"105","Fahrzeugschlosser/in",3,"Frauen",0,3698,0
-"106","Fahrzeugschlosser/in",3,"MÃ¤nner",3,4158,0.1
-"107","Fassadenbauer/in",1,"Frauen",0,3698,0
-"108","Fassadenbauer/in",1,"MÃ¤nner",1,4158,0
-"109","Fleischfachassistent/in",2,"Frauen",0,3698,0
-"110","Fleischfachassistent/in",2,"MÃ¤nner",2,4158,0
-"111","Fleischfachmann/-frau",14,"Frauen",2,3698,0.1
-"112","Fleischfachmann/-frau",14,"MÃ¤nner",12,4158,0.3
-"113","Florist/in",21,"Frauen",20,3698,0.5
-"114","Florist/in",21,"MÃ¤nner",1,4158,0
-"115","Forstwart/in",21,"Frauen",0,3698,0
-"116","Forstwart/in",21,"MÃ¤nner",21,4158,0.5
-"117","Fotofachmann/-frau",5,"Frauen",3,3698,0.1
-"118","Fotofachmann/-frau",5,"MÃ¤nner",2,4158,0
-"119","GÃ¤rtner/in",92,"Frauen",17,3698,0.5
-"120","GÃ¤rtner/in",92,"MÃ¤nner",75,4158,1.8
-"121","GebÃ¤udereiniger/in",7,"Frauen",0,3698,0
-"122","GebÃ¤udereiniger/in",7,"MÃ¤nner",7,4158,0.2
-"123","GebÃ¤udetechnikplaner/in Heizung",14,"Frauen",3,3698,0.1
-"124","GebÃ¤udetechnikplaner/in Heizung",14,"MÃ¤nner",11,4158,0.3
-"125","GebÃ¤udetechnikplaner/in LÃ¼ftung",15,"Frauen",4,3698,0.1
-"126","GebÃ¤udetechnikplaner/in LÃ¼ftung",15,"MÃ¤nner",11,4158,0.3
-"127","GebÃ¤udetechnikplaner/in SanitÃ¤r",12,"Frauen",3,3698,0.1
-"128","GebÃ¤udetechnikplaner/in SanitÃ¤r",12,"MÃ¤nner",9,4158,0.2
-"129","GemÃ¼segÃ¤rtner/in",1,"Frauen",0,3698,0
-"130","GemÃ¼segÃ¤rtner/in",1,"MÃ¤nner",1,4158,0
-"131","Geomatiker/in",21,"Frauen",6,3698,0.2
-"132","Geomatiker/in",21,"MÃ¤nner",15,4158,0.4
-"133","GerÃ¼stbauer/in",1,"Frauen",0,3698,0
-"134","GerÃ¼stbauer/in",1,"MÃ¤nner",1,4158,0
-"135","GerÃ¼stbaupraktiker/in",1,"Frauen",0,3698,0
-"136","GerÃ¼stbaupraktiker/in",1,"MÃ¤nner",1,4158,0
-"137","Gestalter/in Werbetechnik",12,"Frauen",10,3698,0.3
-"138","Gestalter/in Werbetechnik",12,"MÃ¤nner",2,4158,0
-"139","Gipser/in-Trockenbauer/in",8,"Frauen",0,3698,0
-"140","Gipser/in-Trockenbauer/in",8,"MÃ¤nner",8,4158,0.2
-"141","Gleisbauer/in",4,"Frauen",0,3698,0
-"142","Gleisbauer/in",4,"MÃ¤nner",4,4158,0.1
-"143","Goldschmied/in",1,"Frauen",0,3698,0
-"144","Goldschmied/in",1,"MÃ¤nner",1,4158,0
-"145","Grafiker/in",2,"Frauen",1,3698,0
-"146","Grafiker/in",2,"MÃ¤nner",1,4158,0
-"147","Grundbauer/in",2,"Frauen",0,3698,0
-"148","Grundbauer/in",2,"MÃ¤nner",2,4158,0
-"149","Grundbaupraktiker/in",1,"Frauen",0,3698,0
-"150","Grundbaupraktiker/in",1,"MÃ¤nner",1,4158,0
-"151","Haustechnikpraktiker/in",21,"Frauen",1,3698,0
-"152","Haustechnikpraktiker/in",21,"MÃ¤nner",20,4158,0.5
-"153","Hauswirtschaftspraktiker/in",15,"Frauen",10,3698,0.3
-"154","Hauswirtschaftspraktiker/in",15,"MÃ¤nner",5,4158,0.1
-"155","Heizungsinstallateur/in",43,"Frauen",1,3698,0
-"156","Heizungsinstallateur/in",43,"MÃ¤nner",42,4158,1
-"157","Holzbearbeiter/in",4,"Frauen",0,3698,0
-"158","Holzbearbeiter/in",4,"MÃ¤nner",4,4158,0.1
-"159","Hotel-Kommunikationsfachmann/-frau",22,"Frauen",15,3698,0.4
-"160","Hotel-Kommunikationsfachmann/-frau",22,"MÃ¤nner",7,4158,0.2
-"161","Hotelfachmann/-frau",51,"Frauen",40,3698,1.1
-"162","Hotelfachmann/-frau",51,"MÃ¤nner",11,4158,0.3
-"163","Hotellerieangestellte/r",6,"Frauen",6,3698,0.2
-"164","Hotellerieangestellte/r",6,"MÃ¤nner",0,4158,0
-"165","Hufschmied/in",1,"Frauen",1,3698,0
-"166","Hufschmied/in",1,"MÃ¤nner",0,4158,0
-"167","ICT-Fachmann",36,"Frauen",1,3698,0
-"168","ICT-Fachmann",36,"MÃ¤nner",35,4158,0.8
-"169","Industrie- und Unterlagsbodenbauer/in",2,"Frauen",0,3698,0
-"170","Industrie- und Unterlagsbodenbauer/in",2,"MÃ¤nner",2,4158,0
-"171","Industrielackierer/in",4,"Frauen",1,3698,0
-"172","Industrielackierer/in",4,"MÃ¤nner",3,4158,0.1
-"173","Informatiker/in",323,"Frauen",39,3698,1.1
-"174","Informatiker/in",323,"MÃ¤nner",284,4158,6.8
-"175","Innendekorateur/in",1,"Frauen",1,3698,0
-"176","Innendekorateur/in",1,"MÃ¤nner",0,4158,0
-"177","Interactive Media Designer",2,"Frauen",0,3698,0
-"178","Interactive Media Designer",2,"MÃ¤nner",2,4158,0
-"179","KÃ¤ltesystem-Monteur/in",4,"Frauen",0,3698,0
-"180","KÃ¤ltesystem-Monteur/in",4,"MÃ¤nner",4,4158,0.1
-"181","KÃ¤ltesystem-Planer/in",3,"Frauen",1,3698,0
-"182","KÃ¤ltesystem-Planer/in",3,"MÃ¤nner",2,4158,0
-"183","Kaminfeger/in",3,"Frauen",1,3698,0
-"184","Kaminfeger/in",3,"MÃ¤nner",2,4158,0
-"185","Kaufmann/-frau",1645,"Frauen",1024,3698,27.7
-"186","Kaufmann/-frau",1645,"MÃ¤nner",621,4158,14.9
-"187","Kleinmotorrad- u Fahrradmechaniker/in",2,"Frauen",0,3698,0
-"188","Kleinmotorrad- u Fahrradmechaniker/in",2,"MÃ¤nner",2,4158,0
-"189","Koch/KÃ¶chin",164,"Frauen",56,3698,1.5
-"190","Koch/KÃ¶chin",164,"MÃ¤nner",108,4158,2.6
-"191","Konstrukteur/in",77,"Frauen",9,3698,0.2
-"192","Konstrukteur/in",77,"MÃ¤nner",68,4158,1.6
-"193","Kosmetiker/in",13,"Frauen",13,3698,0.4
-"194","Kosmetiker/in",13,"MÃ¤nner",0,4158,0
-"195","KÃ¼chenangestellte/r",13,"Frauen",3,3698,0.1
-"196","KÃ¼chenangestellte/r",13,"MÃ¤nner",10,4158,0.2
-"197","Kunststofftechnologe/-login",9,"Frauen",1,3698,0
-"198","Kunststofftechnologe/-login",9,"MÃ¤nner",8,4158,0.2
-"199","Kunststoffverarbeiter/in",1,"Frauen",0,3698,0
-"200","Kunststoffverarbeiter/in",1,"MÃ¤nner",1,4158,0
-"201","Laborant/in",52,"Frauen",26,3698,0.7
-"202","Laborant/in",52,"MÃ¤nner",26,4158,0.6
-"203","Lackierassisten/in",4,"Frauen",0,3698,0
-"204","Lackierassisten/in",4,"MÃ¤nner",4,4158,0.1
-"205","Landmaschinenmechaniker/in",21,"Frauen",1,3698,0
-"206","Landmaschinenmechaniker/in",21,"MÃ¤nner",20,4158,0.5
-"207","Landwirt/in",27,"Frauen",4,3698,0.1
-"208","Landwirt/in",27,"MÃ¤nner",23,4158,0.6
-"209","Lebensmittelpraktiker/in",1,"Frauen",1,3698,0
-"210","Lebensmittelpraktiker/in",1,"MÃ¤nner",0,4158,0
-"211","Lebensmitteltechnologe/-login",14,"Frauen",2,3698,0.1
-"212","Lebensmitteltechnologe/-login",14,"MÃ¤nner",12,4158,0.3
-"213","Logistiker/in",184,"Frauen",12,3698,0.3
-"214","Logistiker/in",184,"MÃ¤nner",172,4158,4.1
-"215","LÃ¼ftungsanlagenbauer/in",5,"Frauen",0,3698,0
-"216","LÃ¼ftungsanlagenbauer/in",5,"MÃ¤nner",5,4158,0.1
-"217","Maler/in",58,"Frauen",21,3698,0.6
-"218","Maler/in",58,"MÃ¤nner",37,4158,0.9
-"219","Malerpraktiker/in",7,"Frauen",0,3698,0
-"220","Malerpraktiker/in",7,"MÃ¤nner",7,4158,0.2
-"221","Matrose/Matrosin der Binnenschifffahrt",1,"Frauen",0,3698,0
-"222","Matrose/Matrosin der Binnenschifffahrt",1,"MÃ¤nner",1,4158,0
-"223","Maurer/in",48,"Frauen",0,3698,0
-"224","Maurer/in",48,"MÃ¤nner",48,4158,1.2
-"225","Mechanikpraktiker/in",8,"Frauen",0,3698,0
-"226","Mechanikpraktiker/in",8,"MÃ¤nner",8,4158,0.2
-"227","Mediamatiker/in",68,"Frauen",32,3698,0.9
-"228","Mediamatiker/in",68,"MÃ¤nner",36,4158,0.9
-"229","Medientechnologe/-login",14,"Frauen",6,3698,0.2
-"230","Medientechnologe/-login",14,"MÃ¤nner",8,4158,0.2
-"231","Medizinische/r Praxisassistent/in",185,"Frauen",180,3698,4.9
-"232","Medizinische/r Praxisassistent/in",185,"MÃ¤nner",5,4158,0.1
-"233","Medizinproduktetechnologe/-gin",1,"Frauen",1,3698,0
-"234","Medizinproduktetechnologe/-gin",1,"MÃ¤nner",0,4158,0
-"235","Metallbauer/in",25,"Frauen",1,3698,0
-"236","Metallbauer/in",25,"MÃ¤nner",24,4158,0.6
-"237","Metallbaukonstrukteur/in",5,"Frauen",1,3698,0
-"238","Metallbaukonstrukteur/in",5,"MÃ¤nner",4,4158,0.1
-"239","Metallbaupraktiker/in",5,"Frauen",0,3698,0
-"240","Metallbaupraktiker/in",5,"MÃ¤nner",5,4158,0.1
-"241","Milchtechnologe/-login",2,"Frauen",0,3698,0
-"242","Milchtechnologe/-login",2,"MÃ¤nner",2,4158,0
-"243","Montage-Elektriker/in",80,"Frauen",0,3698,0
-"244","Montage-Elektriker/in",80,"MÃ¤nner",80,4158,1.9
-"245","MotorgerÃ¤temechaniker/in",1,"Frauen",0,3698,0
-"246","MotorgerÃ¤temechaniker/in",1,"MÃ¤nner",1,4158,0
-"247","Motorradmechaniker/in",6,"Frauen",0,3698,0
-"248","Motorradmechaniker/in",6,"MÃ¤nner",6,4158,0.1
-"249","MÃ¼ller/in",1,"Frauen",1,3698,0
-"250","MÃ¼ller/in",1,"MÃ¤nner",0,4158,0
-"251","Multimediaelektroniker/in",13,"Frauen",1,3698,0
-"252","Multimediaelektroniker/in",13,"MÃ¤nner",12,4158,0.3
-"253","Netzelektriker/in",14,"Frauen",1,3698,0
-"254","Netzelektriker/in",14,"MÃ¤nner",13,4158,0.3
-"255","OberflÃ¤chenpraktiker/in",1,"Frauen",0,3698,0
-"256","OberflÃ¤chenpraktiker/in",1,"MÃ¤nner",1,4158,0
-"257","Obstfachmann/-fachfrau",1,"Frauen",0,3698,0
-"258","Obstfachmann/-fachfrau",1,"MÃ¤nner",1,4158,0
-"259","Ofenbauer/in",2,"Frauen",0,3698,0
-"260","Ofenbauer/in",2,"MÃ¤nner",2,4158,0
-"261","Orgelbauer",1,"Frauen",0,3698,0
-"262","Orgelbauer",1,"MÃ¤nner",1,4158,0
-"263","OrthopÃ¤dist/in",6,"Frauen",4,3698,0.1
-"264","OrthopÃ¤dist/in",6,"MÃ¤nner",2,4158,0
-"265","Pferdefachmann/-frau",13,"Frauen",12,3698,0.3
-"266","Pferdefachmann/-frau",13,"MÃ¤nner",1,4158,0
-"267","Pferdewart/in",1,"Frauen",1,3698,0
-"268","Pferdewart/in",1,"MÃ¤nner",0,4158,0
-"269","Pharma-Assistent/in",123,"Frauen",120,3698,3.2
-"270","Pharma-Assistent/in",123,"MÃ¤nner",3,4158,0.1
-"271","Physiklaborant/in",5,"Frauen",1,3698,0
-"272","Physiklaborant/in",5,"MÃ¤nner",4,4158,0.1
-"273","Plattenleger/in",4,"Frauen",0,3698,0
-"274","Plattenleger/in",4,"MÃ¤nner",4,4158,0.1
-"275","Plattenlegerpraktiker/in",2,"Frauen",0,3698,0
-"276","Plattenlegerpraktiker/in",2,"MÃ¤nner",2,4158,0
-"277","Podologe/-login",2,"Frauen",2,3698,0.1
-"278","Podologe/-login",2,"MÃ¤nner",0,4158,0
-"279","Polydesigner/in 3D",10,"Frauen",9,3698,0.2
-"280","Polydesigner/in 3D",10,"MÃ¤nner",1,4158,0
-"281","Polygraf/in",12,"Frauen",8,3698,0.2
-"282","Polygraf/in",12,"MÃ¤nner",4,4158,0.1
-"283","Polymechaniker/in",196,"Frauen",14,3698,0.4
-"284","Polymechaniker/in",196,"MÃ¤nner",182,4158,4.4
-"285","Printmedienverarbeiter/in",4,"Frauen",2,3698,0.1
-"286","Printmedienverarbeiter/in",4,"MÃ¤nner",2,4158,0
-"287","Produktionsmechaniker/in",37,"Frauen",0,3698,0
-"288","Produktionsmechaniker/in",37,"MÃ¤nner",37,4158,0.9
-"289","Raumausstatter/in",2,"Frauen",1,3698,0
-"290","Raumausstatter/in",2,"MÃ¤nner",1,4158,0
-"291","Recyclist/in",3,"Frauen",0,3698,0
-"292","Recyclist/in",3,"MÃ¤nner",3,4158,0.1
-"293","Reifenpraktiker/in",6,"Frauen",0,3698,0
-"294","Reifenpraktiker/in",6,"MÃ¤nner",6,4158,0.1
-"295","Restaurantangestellte/r",8,"Frauen",5,3698,0.1
-"296","Restaurantangestellte/r",8,"MÃ¤nner",3,4158,0.1
-"297","Restaurantfachmann/-frau",39,"Frauen",27,3698,0.7
-"298","Restaurantfachmann/-frau",39,"MÃ¤nner",12,4158,0.3
-"299","SanitÃ¤rinstallateur/in",69,"Frauen",1,3698,0
-"300","SanitÃ¤rinstallateur/in",69,"MÃ¤nner",68,4158,1.6
-"301","Schreiner/in",106,"Frauen",23,3698,0.6
-"302","Schreiner/in",106,"MÃ¤nner",83,4158,2
-"303","Schreinerpraktiker/in",9,"Frauen",0,3698,0
-"304","Schreinerpraktiker/in",9,"MÃ¤nner",9,4158,0.2
-"305","Seilbahn-Mechatroniker/in",1,"Frauen",0,3698,0
-"306","Seilbahn-Mechatroniker/in",1,"MÃ¤nner",1,4158,0
-"307","Spengler/in",13,"Frauen",2,3698,0.1
-"308","Spengler/in",13,"MÃ¤nner",11,4158,0.3
-"309","Steinmetz/in",1,"Frauen",1,3698,0
-"310","Steinmetz/in",1,"MÃ¤nner",0,4158,0
-"311","Storenmonteur/in",3,"Frauen",0,3698,0
-"312","Storenmonteur/in",3,"MÃ¤nner",3,4158,0.1
-"313","Strassenbauer/in",11,"Frauen",1,3698,0
-"314","Strassenbauer/in",11,"MÃ¤nner",10,4158,0.2
-"315","Strassenbaupraktiker/in",4,"Frauen",0,3698,0
-"316","Strassenbaupraktiker/in",4,"MÃ¤nner",4,4158,0.1
-"317","Strassentransportfachmann/-frau",6,"Frauen",0,3698,0
-"318","Strassentransportfachmann/-frau",6,"MÃ¤nner",6,4158,0.1
-"319","Strassentransportpraktiker/in",1,"Frauen",0,3698,0
-"320","Strassentransportpraktiker/in",1,"MÃ¤nner",1,4158,0
-"321","Systemgastronomiefachmann/-frau",13,"Frauen",7,3698,0.2
-"322","Systemgastronomiefachmann/-frau",13,"MÃ¤nner",6,4158,0.1
-"323","Telematiker/in",4,"Frauen",0,3698,0
-"324","Telematiker/in",4,"MÃ¤nner",4,4158,0.1
-"325","Tiermed. Praxisassistent/in",32,"Frauen",32,3698,0.9
-"326","Tiermed. Praxisassistent/in",32,"MÃ¤nner",0,4158,0
-"327","Tierpfleger/in",7,"Frauen",6,3698,0.2
-"328","Tierpfleger/in",7,"MÃ¤nner",1,4158,0
-"329","Uhrmacher/in",2,"Frauen",0,3698,0
-"330","Uhrmacher/in",2,"MÃ¤nner",2,4158,0
-"331","Unterhaltspraktiker/in",13,"Frauen",0,3698,0
-"332","Unterhaltspraktiker/in",13,"MÃ¤nner",13,4158,0.3
-"333","Veranstaltungsfachmann/-frau",10,"Frauen",2,3698,0.1
-"334","Veranstaltungsfachmann/-frau",10,"MÃ¤nner",8,4158,0.2
-"335","Vergolder/in-Einrahmer/in",1,"Frauen",1,3698,0
-"336","Vergolder/in-Einrahmer/in",1,"MÃ¤nner",0,4158,0
-"337","Winzer/in",2,"Frauen",0,3698,0
-"338","Winzer/in",2,"MÃ¤nner",2,4158,0
-"339","Wohntextilgestalter/in",1,"Frauen",1,3698,0
-"340","Wohntextilgestalter/in",1,"MÃ¤nner",0,4158,0
-"341","Zahntechniker/in",7,"Frauen",7,3698,0.2
-"342","Zahntechniker/in",7,"MÃ¤nner",0,4158,0
-"343","Zeichner/in",213,"Frauen",84,3698,2.3
-"344","Zeichner/in",213,"MÃ¤nner",129,4158,3.1
-"345","Zimmermann/Zimmerin",101,"Frauen",3,3698,0.1
-"346","Zimmermann/Zimmerin",101,"MÃ¤nner",98,4158,2.4
+;Beruf;Total_Beruf;Geschlecht;Anzahl;Total_Geschlecht;Anteil
+1;Abdichterin;1;Frauen;0;3698;0
+2;Abdichter;1;Männer;1;4158;0
+3;Abdichtungspraktikerin;2;Frauen;0;3698;0
+4;Abdichtungspraktiker;2;Männer;2;4158;0
+5;Agrarpraktikerin;1;Frauen;0;3698;0
+6;Agrarpraktiker;1;Männer;1;4158;0
+7;Anlagen- und Apparatebauerin;15;Frauen;1;3698;0
+8;Anlagen- und Apparatebauer;15;Männer;14;4158;0.3
+9;Anlagenführerin;5;Frauen;1;3698;0
+10;Anlagenführer;5;Männer;4;4158;0.1
+11;Anlehre: INSOS Pra;59;Frauen;21;3698;0.6
+12;Anlehre: INSOS Pra;59;Männer;38;4158;0.9
+13;Apparate-Glasbläserin;1;Frauen;1;3698;0
+14;Apparate-Glasbläser;1;Männer;0;4158;0
+15;Architekturmodellbauerin;2;Frauen;1;3698;0
+16;Architekturmodellbauer;2;Männer;1;4158;0
+17;Assistentin Gesundheit und Soziales;78;Frauen;65;3698;1.8
+18;Assistent Gesundheit und Soziales;78;Männer;13;4158;0.3
+19;Augenoptikerin;42;Frauen;33;3698;0.9
+20;Augenoptiker;42;Männer;9;4158;0.2
+21;Automatikerin;95;Frauen;7;3698;0.2
+22;Automatiker;95;Männer;88;4158;2.1
+23;Automatikmonteurin;17;Frauen;2;3698;0.1
+24;Automatikmonteur;17;Männer;15;4158;0.4
+25;Automobil-Assistentin;8;Frauen;0;3698;0
+26;Automobil-Assistent;8;Männer;8;4158;0.2
+27;Automobil-Fachfrau;112;Frauen;3;3698;0.1
+28;Automobil-Fachmann;112;Männer;109;4158;2.6
+29;Automobil-Mechatronikerin;78;Frauen;4;3698;0.1
+30;Automobil-Mechatroniker;78;Männer;74;4158;1.8
+31;Bäckerin-Konditorin-Confiseurin;33;Frauen;27;3698;0.7
+32;Bäcker-Konditor-Confiseur;33;Männer;6;4158;0.1
+33;Baumaschinenmechanikerin;10;Frauen;0;3698;0
+34;Baumaschinenmechaniker;10;Männer;10;4158;0.2
+35;Baupraktikerin;7;Frauen;0;3698;0
+36;Baupraktiker;7;Männer;7;4158;0.2
+37;Bauwerktrennerin;1;Frauen;0;3698;0
+38;Bauwerktrenner;1;Männer;1;4158;0
+39;Bekleidungsgestalterin;10;Frauen;10;3698;0.3
+40;Bekleidungsgestalter;10;Männer;0;4158;0
+41;Blasinstrumentenbauerin;1;Frauen;0;3698;0
+42;Blasinstrumentenbauer;1;Männer;1;4158;0
+43;Boden-Parkettlegerin;8;Frauen;0;3698;0
+44;Boden-Parkettleger;8;Männer;8;4158;0.2
+45;Bootbauerin;2;Frauen;0;3698;0
+46;Bootbauer;2;Männer;2;4158;0
+47;Bootfachwartin;4;Frauen;0;3698;0
+48;Bootfachwart;4;Männer;4;4158;0.1
+49;Buchhändlerin;5;Frauen;5;3698;0.1
+50;Buchhändler;5;Männer;0;4158;0
+51;Bühnentänzerin;5;Frauen;4;3698;0.1
+52;Bühnentänzer;5;Männer;1;4158;0
+53;Büroassistentin;13;Frauen;8;3698;0.2
+54;Büroassistent;13;Männer;5;4158;0.1
+55;Carrosseriespenglerin;22;Frauen;1;3698;0
+56;Carrosseriespengler;22;Männer;21;4158;0.5
+57;Carrossierin Lackiererei;28;Frauen;2;3698;0.1
+58;Carrossier Lackiererei;28;Männer;26;4158;0.6
+59;Chemie- und Pharmatechnologin;7;Frauen;6;3698;0.2
+60;Chemie- und Pharmatechnologe;7;Männer;1;4158;0
+61;Coiffeuse;100;Frauen;82;3698;2.2
+62;Coiffeur;100;Männer;18;4158;0.4
+63;Dachdeckerin;3;Frauen;0;3698;0
+64;Dachdecker;3;Männer;3;4158;0.1
+65;Dachdeckerpraktikerin;2;Frauen;0;3698;0
+66;Dachdeckerpraktiker;2;Männer;2;4158;0
+67;Dekorationsnäherin;1;Frauen;1;3698;0
+68;Dekorationsnäher;1;Männer;0;4158;0
+69;Dentalassistentin;178;Frauen;178;3698;4.8
+70;Dentalassistent;178;Männer;0;4158;0
+71;Detailhandelsassistentin;100;Frauen;47;3698;1.3
+72;Detailhandelsassistent;100;Männer;53;4158;1.3
+73;Detailhandelsfachfrau;430;Frauen;208;3698;5.6
+74;Detailhandelsfachmann;430;Männer;222;4158;5.3
+75;Drogistin;38;Frauen;34;3698;0.9
+76;Drogist;38;Männer;4;4158;0.1
+77;Drucktechnologin;1;Frauen;1;3698;0
+78;Drucktechnologe;1;Männer;0;4158;0
+79;Elektroinstallateurin;292;Frauen;6;3698;0.2
+80;Elektroinstallateur;292;Männer;286;4158;6.9
+81;Elektronikerin;68;Frauen;7;3698;0.2
+82;Elektroniker;68;Männer;61;4158;1.5
+83;Elektroplanerin;35;Frauen;6;3698;0.2
+84;Elektroplaner;35;Männer;29;4158;0.7
+85;Entwässerungspraktikerin;1;Frauen;0;3698;0
+86;Entwässerungspraktiker;1;Männer;1;4158;0
+87;Fachfrau Betreuung;511;Frauen;439;3698;11.9
+88;Fachmann Betreuung;511;Männer;72;4158;1.7
+89;Fachfrau Betriebsunterhalt;102;Frauen;5;3698;0.1
+90;Fachmann Betriebsunterhalt;102;Männer;97;4158;2.3
+91;Fachfrau Bewegungs-u.Ges.heitsförderung;17;Frauen;7;3698;0.2
+92;Fachmann Bewegungs-u.Ges.heitsförderung;17;Männer;10;4158;0.2
+93;Fachfrau Gesundheit;541;Frauen;475;3698;12.8
+94;Fachmann Gesundheit;541;Männer;66;4158;1.6
+95;Fachfrau Information u. Dokumentation;7;Frauen;4;3698;0.1
+96;Fachmann Information u. Dokumentation;7;Männer;3;4158;0.1
+97;Fachfrau Kundendialog;25;Frauen;17;3698;0.5
+98;Fachmann Kundendialog;25;Männer;8;4158;0.2
+99;Fachfrau öffentlicher Verkehr;18;Frauen;3;3698;0.1
+100;Fachmann öffentlicher Verkehr;18;Männer;15;4158;0.4
+101;Fachfrau Hauswirtschaft;14;Frauen;14;3698;0.4
+102;Fachmann Hauswirtschaft;14;Männer;0;4158;0
+103;Fahrradmechanikerin;16;Frauen;1;3698;0
+104;Fahrradmechaniker;16;Männer;15;4158;0.4
+105;Fahrzeugschlosserin;3;Frauen;0;3698;0
+106;Fahrzeugschlosser;3;Männer;3;4158;0.1
+107;Fassadenbauerin;1;Frauen;0;3698;0
+108;Fassadenbauer;1;Männer;1;4158;0
+109;Fleischfachassistentin;2;Frauen;0;3698;0
+110;Fleischfachassistent;2;Männer;2;4158;0
+111;Fleischfachfrau;14;Frauen;2;3698;0.1
+112;Fleischfachmann;14;Männer;12;4158;0.3
+113;Floristin;21;Frauen;20;3698;0.5
+114;Florist;21;Männer;1;4158;0
+115;Forstwartin;21;Frauen;0;3698;0
+116;Forstwart;21;Männer;21;4158;0.5
+117;Fotofachfrau;5;Frauen;3;3698;0.1
+118;Fotofachmann;5;Männer;2;4158;0
+119;Gärtnerin;92;Frauen;17;3698;0.5
+120;Gärtner;92;Männer;75;4158;1.8
+121;Gebäudereinigerin;7;Frauen;0;3698;0
+122;Gebäudereiniger;7;Männer;7;4158;0.2
+123;Gebäudetechnikplanerin Heizung;14;Frauen;3;3698;0.1
+124;Gebäudetechnikplaner Heizung;14;Männer;11;4158;0.3
+125;Gebäudetechnikplanerin Lüftung;15;Frauen;4;3698;0.1
+126;Gebäudetechnikplaner Lüftung;15;Männer;11;4158;0.3
+127;Gebäudetechnikplanerin Sanitär;12;Frauen;3;3698;0.1
+128;Gebäudetechnikplaner Sanitär;12;Männer;9;4158;0.2
+129;Gemüsegärtnerin;1;Frauen;0;3698;0
+130;Gemüsegärtner;1;Männer;1;4158;0
+131;Geomatikerin;21;Frauen;6;3698;0.2
+132;Geomatiker;21;Männer;15;4158;0.4
+133;Gerüstbauerin;1;Frauen;0;3698;0
+134;Gerüstbauer;1;Männer;1;4158;0
+135;Gerüstbaupraktikerin;1;Frauen;0;3698;0
+136;Gerüstbaupraktiker;1;Männer;1;4158;0
+137;Gestalterin Werbetechnik;12;Frauen;10;3698;0.3
+138;Gestalter Werbetechnik;12;Männer;2;4158;0
+139;Gipserin-Trockenbauerin;8;Frauen;0;3698;0
+140;Gipser-Trockenbauer;8;Männer;8;4158;0.2
+141;Gleisbauerin;4;Frauen;0;3698;0
+142;Gleisbauer;4;Männer;4;4158;0.1
+143;Goldschmiedin;1;Frauen;0;3698;0
+144;Goldschmied;1;Männer;1;4158;0
+145;Grafikerin;2;Frauen;1;3698;0
+146;Grafiker;2;Männer;1;4158;0
+147;Grundbauerin;2;Frauen;0;3698;0
+148;Grundbauer;2;Männer;2;4158;0
+149;Grundbaupraktikerin;1;Frauen;0;3698;0
+150;Grundbaupraktiker;1;Männer;1;4158;0
+151;Haustechnikpraktikerin;21;Frauen;1;3698;0
+152;Haustechnikpraktiker;21;Männer;20;4158;0.5
+153;Hauswirtschaftspraktikerin;15;Frauen;10;3698;0.3
+154;Hauswirtschaftspraktiker;15;Männer;5;4158;0.1
+155;Heizungsinstallateurin;43;Frauen;1;3698;0
+156;Heizungsinstallateur;43;Männer;42;4158;1
+157;Holzbearbeiterin;4;Frauen;0;3698;0
+158;Holzbearbeiter;4;Männer;4;4158;0.1
+159;Hotel-Kommunikationsfachfrau;22;Frauen;15;3698;0.4
+160;Hotel-Kommunikationsfachmann;22;Männer;7;4158;0.2
+161;Hotelfachfrau;51;Frauen;40;3698;1.1
+162;Hotelfachmann;51;Männer;11;4158;0.3
+163;Hotellerieangestellte;6;Frauen;6;3698;0.2
+164;Hotellerieangestellter;6;Männer;0;4158;0
+165;Hufschmiedin;1;Frauen;1;3698;0
+166;Hufschmied;1;Männer;0;4158;0
+167;ICT-Fachmann;36;Frauen;1;3698;0
+168;ICT-Fachmann;36;Männer;35;4158;0.8
+169;Industrie- und Unterlagsbodenbauerin;2;Frauen;0;3698;0
+170;Industrie- und Unterlagsbodenbauer;2;Männer;2;4158;0
+171;Industrielackiererin;4;Frauen;1;3698;0
+172;Industrielackierer;4;Männer;3;4158;0.1
+173;Informatikerin;323;Frauen;39;3698;1.1
+174;Informatiker;323;Männer;284;4158;6.8
+175;Innendekorateurin;1;Frauen;1;3698;0
+176;Innendekorateur;1;Männer;0;4158;0
+177;Interactive Media Designer;2;Frauen;0;3698;0
+178;Interactive Media Designer;2;Männer;2;4158;0
+179;Kältesystem-Monteurin;4;Frauen;0;3698;0
+180;Kältesystem-Monteur;4;Männer;4;4158;0.1
+181;Kältesystem-Planerin;3;Frauen;1;3698;0
+182;Kältesystem-Planer;3;Männer;2;4158;0
+183;Kaminfegerin;3;Frauen;1;3698;0
+184;Kaminfeger;3;Männer;2;4158;0
+185;Kauffrau;1645;Frauen;1024;3698;27.7
+186;Kaufmann;1645;Männer;621;4158;14.9
+187;Kleinmotorrad- u Fahrradmechanikerin;2;Frauen;0;3698;0
+188;Kleinmotorrad- u Fahrradmechaniker;2;Männer;2;4158;0
+189;Köchin;164;Frauen;56;3698;1.5
+190;Koch;164;Männer;108;4158;2.6
+191;Konstrukteurin;77;Frauen;9;3698;0.2
+192;Konstrukteur;77;Männer;68;4158;1.6
+193;Kosmetikerin;13;Frauen;13;3698;0.4
+194;Kosmetiker;13;Männer;0;4158;0
+195;Küchenangestellte;13;Frauen;3;3698;0.1
+196;Küchenangestellter;13;Männer;10;4158;0.2
+197;Kunststofftechnologin;9;Frauen;1;3698;0
+198;Kunststofftechnologe;9;Männer;8;4158;0.2
+199;Kunststoffverarbeiterin;1;Frauen;0;3698;0
+200;Kunststoffverarbeiter;1;Männer;1;4158;0
+201;Laborantin;52;Frauen;26;3698;0.7
+202;Laborant;52;Männer;26;4158;0.6
+203;Lackierassistenin;4;Frauen;0;3698;0
+204;Lackierassisten;4;Männer;4;4158;0.1
+205;Landmaschinenmechanikerin;21;Frauen;1;3698;0
+206;Landmaschinenmechaniker;21;Männer;20;4158;0.5
+207;Landwirtin;27;Frauen;4;3698;0.1
+208;Landwirt;27;Männer;23;4158;0.6
+209;Lebensmittelpraktikerin;1;Frauen;1;3698;0
+210;Lebensmittelpraktiker;1;Männer;0;4158;0
+211;Lebensmitteltechnologin;14;Frauen;2;3698;0.1
+212;Lebensmitteltechnologe;14;Männer;12;4158;0.3
+213;Logistikerin;184;Frauen;12;3698;0.3
+214;Logistiker;184;Männer;172;4158;4.1
+215;Lüftungsanlagenbauerin;5;Frauen;0;3698;0
+216;Lüftungsanlagenbauer;5;Männer;5;4158;0.1
+217;Malerin;58;Frauen;21;3698;0.6
+218;Maler;58;Männer;37;4158;0.9
+219;Malerpraktikerin;7;Frauen;0;3698;0
+220;Malerpraktiker;7;Männer;7;4158;0.2
+221;Matrosin der Binnenschifffahrt;1;Frauen;0;3698;0
+222;Matrose der Binnenschifffahrt;1;Männer;1;4158;0
+223;Maurerin;48;Frauen;0;3698;0
+224;Maurer;48;Männer;48;4158;1.2
+225;Mechanikpraktikerin;8;Frauen;0;3698;0
+226;Mechanikpraktiker;8;Männer;8;4158;0.2
+227;Mediamatikerin;68;Frauen;32;3698;0.9
+228;Mediamatiker;68;Männer;36;4158;0.9
+229;Medientechnologin;14;Frauen;6;3698;0.2
+230;Medientechnologe;14;Männer;8;4158;0.2
+231;Medizinische Praxisassistentin;185;Frauen;180;3698;4.9
+232;Medizinischer Praxisassistent;185;Männer;5;4158;0.1
+233;Medizinproduktetechnologin;1;Frauen;1;3698;0
+234;Medizinproduktetechnologe;1;Männer;0;4158;0
+235;Metallbauerin;25;Frauen;1;3698;0
+236;Metallbauer;25;Männer;24;4158;0.6
+237;Metallbaukonstrukteurin;5;Frauen;1;3698;0
+238;Metallbaukonstrukteur;5;Männer;4;4158;0.1
+239;Metallbaupraktikerin;5;Frauen;0;3698;0
+240;Metallbaupraktiker;5;Männer;5;4158;0.1
+241;Milchtechnologin;2;Frauen;0;3698;0
+242;Milchtechnologe;2;Männer;2;4158;0
+243;Montage-Elektrikerin;80;Frauen;0;3698;0
+244;Montage-Elektriker;80;Männer;80;4158;1.9
+245;Motorgerätemechanikerin;1;Frauen;0;3698;0
+246;Motorgerätemechaniker;1;Männer;1;4158;0
+247;Motorradmechanikerin;6;Frauen;0;3698;0
+248;Motorradmechaniker;6;Männer;6;4158;0.1
+249;Müllerin;1;Frauen;1;3698;0
+250;Müller;1;Männer;0;4158;0
+251;Multimediaelektronikerin;13;Frauen;1;3698;0
+252;Multimediaelektroniker;13;Männer;12;4158;0.3
+253;Netzelektrikerin;14;Frauen;1;3698;0
+254;Netzelektriker;14;Männer;13;4158;0.3
+255;Oberflächenpraktikerin;1;Frauen;0;3698;0
+256;Oberflächenpraktiker;1;Männer;1;4158;0
+257;Obstfachfachfrau;1;Frauen;0;3698;0
+258;Obstfachmann;1;Männer;1;4158;0
+259;Ofenbauerin;2;Frauen;0;3698;0
+260;Ofenbauer;2;Männer;2;4158;0
+261;Orgelbauer;1;Frauen;0;3698;0
+262;Orgelbauer;1;Männer;1;4158;0
+263;Orthopädistin;6;Frauen;4;3698;0.1
+264;Orthopädist;6;Männer;2;4158;0
+265;Pferdefachfrau;13;Frauen;12;3698;0.3
+266;Pferdefachmann;13;Männer;1;4158;0
+267;Pferdewartin;1;Frauen;1;3698;0
+268;Pferdewart;1;Männer;0;4158;0
+269;Pharma-Assistentin;123;Frauen;120;3698;3.2
+270;Pharma-Assistent;123;Männer;3;4158;0.1
+271;Physiklaborantin;5;Frauen;1;3698;0
+272;Physiklaborant;5;Männer;4;4158;0.1
+273;Plattenlegerin;4;Frauen;0;3698;0
+274;Plattenleger;4;Männer;4;4158;0.1
+275;Plattenlegerpraktikerin;2;Frauen;0;3698;0
+276;Plattenlegerpraktiker;2;Männer;2;4158;0
+277;Podologin;2;Frauen;2;3698;0.1
+278;Podologe;2;Männer;0;4158;0
+279;Polydesignerin 3D;10;Frauen;9;3698;0.2
+280;Polydesigner 3D;10;Männer;1;4158;0
+281;Polygrafin;12;Frauen;8;3698;0.2
+282;Polygra;12;Männer;4;4158;0.1
+283;Polymechanikerin;196;Frauen;14;3698;0.4
+284;Polymechaniker;196;Männer;182;4158;4.4
+285;Printmedienverarbeiterin;4;Frauen;2;3698;0.1
+286;Printmedienverarbeiter;4;Männer;2;4158;0
+287;Produktionsmechanikerin;37;Frauen;0;3698;0
+288;Produktionsmechaniker;37;Männer;37;4158;0.9
+289;Raumausstatterin;2;Frauen;1;3698;0
+290;Raumausstatter;2;Männer;1;4158;0
+291;Recyclistin;3;Frauen;0;3698;0
+292;Recyclist;3;Männer;3;4158;0.1
+293;Reifenpraktikerin;6;Frauen;0;3698;0
+294;Reifenpraktiker;6;Männer;6;4158;0.1
+295;Restaurantangestellte;8;Frauen;5;3698;0.1
+296;Restaurantangestellter;8;Männer;3;4158;0.1
+297;Restaurantfachfrau;39;Frauen;27;3698;0.7
+298;Restaurantfachmann;39;Männer;12;4158;0.3
+299;Sanitärinstallateurin;69;Frauen;1;3698;0
+300;Sanitärinstallateur;69;Männer;68;4158;1.6
+301;Schreinerin;106;Frauen;23;3698;0.6
+302;Schreiner;106;Männer;83;4158;2
+303;Schreinerpraktikerin;9;Frauen;0;3698;0
+304;Schreinerpraktiker;9;Männer;9;4158;0.2
+305;Seilbahn-Mechatronikerin;1;Frauen;0;3698;0
+306;Seilbahn-Mechatroniker;1;Männer;1;4158;0
+307;Spenglerin;13;Frauen;2;3698;0.1
+308;Spengler;13;Männer;11;4158;0.3
+309;Steinmetzin;1;Frauen;1;3698;0
+310;Steinmetz;1;Männer;0;4158;0
+311;Storenmonteurin;3;Frauen;0;3698;0
+312;Storenmonteur;3;Männer;3;4158;0.1
+313;Strassenbauerin;11;Frauen;1;3698;0
+314;Strassenbauer;11;Männer;10;4158;0.2
+315;Strassenbaupraktikerin;4;Frauen;0;3698;0
+316;Strassenbaupraktiker;4;Männer;4;4158;0.1
+317;Strassentransportfachfrau;6;Frauen;0;3698;0
+318;Strassentransportfachmann;6;Männer;6;4158;0.1
+319;Strassentransportpraktikerin;1;Frauen;0;3698;0
+320;Strassentransportpraktiker;1;Männer;1;4158;0
+321;Systemgastronomiefachfrau;13;Frauen;7;3698;0.2
+322;Systemgastronomiefachmann;13;Männer;6;4158;0.1
+323;Telematikerin;4;Frauen;0;3698;0
+324;Telematiker;4;Männer;4;4158;0.1
+325;Tiermed. Praxisassistentin;32;Frauen;32;3698;0.9
+326;Tiermed. Praxisassistent;32;Männer;0;4158;0
+327;Tierpflegerin;7;Frauen;6;3698;0.2
+328;Tierpfleger;7;Männer;1;4158;0
+329;Uhrmacherin;2;Frauen;0;3698;0
+330;Uhrmacher;2;Männer;2;4158;0
+331;Unterhaltspraktikerin;13;Frauen;0;3698;0
+332;Unterhaltspraktiker;13;Männer;13;4158;0.3
+333;Veranstaltungsfachfrau;10;Frauen;2;3698;0.1
+334;Veranstaltungsfachmann;10;Männer;8;4158;0.2
+335;Vergolderin-Einrahmerin;1;Frauen;1;3698;0
+336;Vergolder-Einrahmer;1;Männer;0;4158;0
+337;Winzerin;2;Frauen;0;3698;0
+338;Winzer;2;Männer;2;4158;0
+339;Wohntextilgestalterin;1;Frauen;1;3698;0
+340;Wohntextilgestalter;1;Männer;0;4158;0
+341;Zahntechnikerin;7;Frauen;7;3698;0.2
+342;Zahntechniker;7;Männer;0;4158;0
+343;Zeichnerin;213;Frauen;84;3698;2.3
+344;Zeichner;213;Männer;129;4158;3.1
+345;Zimmerin;101;Frauen;3;3698;0.1
+346;Zimmermann;101;Männer;98;4158;2.4
